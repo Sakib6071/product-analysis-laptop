@@ -7,9 +7,9 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
-        <nav className=' bg-black px-2 py-3'>
-            <div className=' grid grid-cols-4 w-3/4 mx-auto'>
-                <div className="logo">
+        <nav className=' bg-black px-1 md:px-2 py-3'>
+            <div className=' grid grid-cols-1 md:grid-cols-4 md:w-3/4 mx-auto'>
+                <div className="logo hidden md:block">
                   <FontAwesomeIcon icon={faLaptop} size="4x" color='white'></FontAwesomeIcon>  
                 </div>
                 <div className="linkItem col-span-3 flex justify-between items-center align-middle">
