@@ -3,21 +3,21 @@
         "id":1,
         "name":"Brut Lee",
         "review": "Wow this is amazing laptop. I never see this type of laptop. Super fast and very light-weight. And the price is reasonable and quality is so good. Highly recommended for every user",
-        "img": "https://www.pexels.com/photo/man-wearing-backpack-beside-plant-428328/",
+        "img": "https://images.pexels.com/photos/428328/pexels-photo-428328.jpeg",
         "rating": 5
     },
     {
         "id":2,
         "name":"John Doe",
         "review": "This is my first laptop. I am satisfy with it's quality and price. This is recommended for every travelers because of it's weight and super slip laptop",
-        "img":"https://www.pexels.com/photo/man-wearing-black-crew-neck-shirt-and-straight-cut-jeans-804009/",
+        "img":"https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "rating": 4
     },
     {
         "id":3,
         "name":"Leo Sinha",
         "review":"WOW ! This is awesome laptop. I am very Happy with this laptop. Highly recommended for student because of it's reasonable price and super duper quality",
-        "img":"https://www.pexels.com/photo/shallow-focus-photo-of-man-in-white-and-black-polka-dot-dress-shirt-wearing-black-sunglasses-2269872/",
+        "img":"https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "rating": 5
         
     },
@@ -25,14 +25,14 @@
         "id":4,
         "name":"Antonio Rodrigo",
         "review":"This is super laptop for watching movie. It's display is super and viewing angle almost 180 degree. So you can see with you whole family",
-        "img":"https://www.pexels.com/photo/photo-of-man-wearing-eyeglasses-2531553/",
+        "img":"https://images.pexels.com/photos/2531553/pexels-photo-2531553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "rating": 5
     },
     {
         "id":5,
         "name":"Ter Stegan",
         "review":"I am using this laptop so many years. Now I gonna buy another laptop for my little brother. highly recommended for everyone. Super quality",
-        "img": "https://www.pexels.com/photo/stylish-man-posing-in-garden-13452647/",
+        "img": "https://images.pexels.com/photos/13452647/pexels-photo-13452647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "rating": 5
     },
     {
@@ -40,7 +40,7 @@
         "id":6,
         "name":"Sergio Busquet",
         "review":"Amazing Laptop I have ever seen. I bought 20 more laptop for my company. And it's super quality, without any doubt you can buy it. Recommended",
-        "img":"https://www.pexels.com/photo/man-in-faded-denim-jacket-standing-in-front-of-house-2460488/",
+        "img":"https://images.pexels.com/photos/2460488/pexels-photo-2460488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "rating": 4
     }
 
