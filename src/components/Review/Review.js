@@ -1,6 +1,6 @@
 import React from 'react';
 import useReview from '../../hooks/useReview';
-import HomeReview from '../HomeReview/HomeReview';
+import ReviewDetails from '../ReviewDetails/ReviewDetails';
 
 const Review = () => {
     const [reviews,setReviews] = useReview()
@@ -9,7 +9,7 @@ const Review = () => {
             <p className='text-5xl text-center font-bold my-3'>All Review</p>
             <div className='grid grid-cols-1 gap-2 my-10'>
             {
-                reviews.map(review=><HomeReview key={review.id} review={review}></HomeReview>)
+                reviews.map(review=><ReviewDetails key={review.id} review={review}></ReviewDetails>)
             }
             </div>
         </div>

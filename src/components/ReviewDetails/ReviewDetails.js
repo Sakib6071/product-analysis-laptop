@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
 
-const HomeReview = (props) => {
+const ReviewDetails = (props) => {
     const {name,review,img,rating}=props.review
     let designRating='';
     if(rating==5){
@@ -45,4 +45,4 @@ const HomeReview = (props) => {
     );
 };
 
-export default HomeReview;
+export default ReviewDetails;

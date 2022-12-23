@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import useReview from '../../hooks/useReview';
-import HomeReview from '../HomeReview/HomeReview';
+import ReviewDetails from '../ReviewDetails/ReviewDetails';
 
 const Home = () => {
     const [reviews,setReviews] = useReview()
@@ -24,7 +24,7 @@ const Home = () => {
             <p className='text-5xl text-center font-bold'>See Reviews</p>
             <div className="reviewContainer grid grid-cols-3 gap-3 my-10">
                 {
-                    needReviews.map(review=><HomeReview key={review.id} review={review}></HomeReview>)
+                    needReviews.map(review=><ReviewDetails key={review.id} review={review}></ReviewDetails>)
                 }
             </div>
             <div className=' text-center'>

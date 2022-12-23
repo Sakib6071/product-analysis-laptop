@@ -15,8 +15,10 @@ const Header = () => {
                 <div className="linkItem col-span-3 flex justify-between items-center align-middle">
                     <CustomLink className=' text-white hover:text-red-500 text-lg font-semibold text-center' to={'/'}>Home</CustomLink>
                     <CustomLink className=' text-white hover:text-red-500 text-lg font-semibold text-center' to={'/review'}>Reviews</CustomLink>
+                    <CustomLink className=' text-white hover:text-red-500 text-lg font-semibold text-center' to={'/dashboard'}>Dashboard</CustomLink>
                     <CustomLink className=' text-white hover:text-red-500 text-lg font-semibold text-center' to={'/blog'}>Blog</CustomLink>
                     <CustomLink className=' text-white hover:text-red-500 text-lg font-semibold text-center' to={'/about'}>About Us</CustomLink>
+                    
                 </div>
             </div>
         </nav>
