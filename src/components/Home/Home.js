@@ -13,7 +13,7 @@ const Home = () => {
                 <div>
                 <h2 className='text-5xl md:text-7xl font-bold my-5 text-green-700 font-serif text-center md:text-left'>We Give Quality</h2>
                 <h2 className='text-5xl md:text-7xl font-bold my-5 text-blue-700 font-serif text-center md:text-left'>You Get Best</h2>
-                <p className='w-3/4 text-justify mt-5 text-lg mx-auto md:mx-0'>Take the best laptop from here. Super quality Laptop with fast performance and guarantee. There are various type of laptop. You can choose as your requirements. Light-weight , ultra slip laptop and high processor.</p>
+                <p className='w-3/4 text-justify mt-5 text-lg mx-auto md:mx-0'>Take the best laptop from here. Super quality Laptop with fast performance and guarantee. There are various type of laptop. You can choose as your requirements. Light-weight , ultra slim laptop and high performance processor.</p>
                 </div>
             </div>
             <div className='my-10 w-3/4 mx-auto order-1 md:order-2'>
