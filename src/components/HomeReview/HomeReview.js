@@ -36,8 +36,8 @@ const HomeReview = (props) => {
                 <p className=' text-center font-semibold text-lg'>{name}</p>
                 <p className=' text-center'>{designRating}</p>
             </div>
-            <div className=' col-span-2'>
-                <p className=' text-justify'>
+            <div className=' col-span-2 flex items-center'>
+                <p className=' text-justify '>
                     {review}
                 </p>
             </div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useReview from '../../hooks/useReview';
 import HomeReview from '../HomeReview/HomeReview';
 
@@ -25,6 +26,9 @@ const Home = () => {
                 {
                     needReviews.map(review=><HomeReview key={review.id} review={review}></HomeReview>)
                 }
+            </div>
+            <div className=' text-center'>
+                <Link className='text-white bg-black px-5 py-2 rounded-lg' to={'/review'}>See All Review</Link>
             </div>
            </div>
         </div>
